@@ -771,11 +771,14 @@ a {
   line-height: 1.25em;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
+  transition: color var(--transition), border-color var(--transition);
 }
 .footer-newsletter-signup-form-input:hover,
 .footer-newsletter-signup-form-input:focus,
 .footer-newsletter-signup-form-input:active {
   outline: none;
+  color: rgba(255, 255, 255, 1);
+  border-color: #fff;
 }
 
 .footer-newsletter-signup-form-input::placeholder {
