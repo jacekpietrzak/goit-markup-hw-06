@@ -106,7 +106,7 @@ a {
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 1.19em;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   text-transform: capitalize;
   color: #212121;
@@ -128,7 +128,7 @@ a {
   align-items: center;
   font-size: 14px;
   font-weight: 500;
-  line-height: 1.14em;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   font-style: normal;
   text-transform: capitalize;
@@ -203,7 +203,7 @@ a {
 .header-menu-list-contact-link {
   font-size: 14px;
   font-weight: 500;
-  line-height: 1.14em;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   font-style: normal;
   text-transform: lowercase;
@@ -239,7 +239,7 @@ a {
   border: 0px;
   padding: 10px 42px;
   border-radius: 4px;
-  line-height: 1.875em;
+  line-height: 1.875;
   letter-spacing: 0.06em;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   cursor: pointer;
@@ -254,7 +254,7 @@ a {
 .hero-heading {
   font-weight: 900;
   font-size: 44px;
-  line-height: 1.36em;
+  line-height: 1.36;
   text-transform: uppercase;
   max-width: 696px;
   margin: 0 auto 30px;
@@ -296,7 +296,7 @@ a {
   font-size: 14px;
   font-weight: 700;
   text-transform: uppercase;
-  line-height: 1.14em;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   margin-bottom: 10px;
 }
@@ -304,7 +304,7 @@ a {
 .testimonials-item-text {
   font-weight: 400;
   font-size: 14px;
-  line-height: 1.71em;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -314,7 +314,7 @@ a {
 .services-heading {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.2em;
+  line-height: 1.2;
   letter-spacing: 0.03em;
   margin-bottom: 50px;
   text-align: center;
@@ -345,7 +345,7 @@ a {
   color: #fff;
   font-weight: 700;
   font-size: 14px;
-  line-height: 1.14em;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   padding: 27px 0;
@@ -365,7 +365,7 @@ a {
 .team-heading {
   font-weight: 700;
   font-size: 35px;
-  line-height: 1.2em;
+  line-height: 1.2;
   letter-spacing: 0.03em;
   margin-bottom: 50px;
   text-align: center;
@@ -449,7 +449,7 @@ a {
 .clients-heading {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.2em;
+  line-height: 1.2;
   letter-spacing: 0.03em;
   margin-bottom: 50px;
   text-align: center;
@@ -547,7 +547,7 @@ a {
   border: 0px;
   padding: 6px 22px;
   border-radius: 4px;
-  line-height: 1.625em;
+  line-height: 1.625;
   letter-spacing: 0.03em;
   cursor: pointer;
   transition: background-color var(--transition), color var(--transition),
@@ -604,7 +604,7 @@ a {
   padding: 49px 24px;
   font-weight: 400;
   font-size: 18px;
-  line-height: 1.56em;
+  line-height: 1.56;
   letter-spacing: 0.03em;
   transform: translatey(100%);
   transition: transform var(--transition);
@@ -631,7 +631,7 @@ a {
 }
 
 .portfolio-list-item-text {
-  line-height: 1.875em;
+  line-height: 1.875;
   color: #757575;
   padding: 0px 24px 20px 24px;
 }
@@ -659,7 +659,7 @@ a {
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 1.19em;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   text-transform: capitalize;
   margin-bottom: 20px;
@@ -673,7 +673,7 @@ a {
 .footer-text {
   font-style: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 2;
   letter-spacing: 0.03em;
   font-weight: 400;
   list-style-type: none;
@@ -700,7 +700,7 @@ a {
   font-weight: 700;
   text-transform: uppercase;
   font-size: 14px;
-  line-height: 1.14em;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   margin-bottom: 20px;
 }
@@ -768,7 +768,7 @@ a {
   padding: 15px 16px;
   margin-right: 12px;
   font-size: 16px;
-  line-height: 1.25em;
+  line-height: 1.25;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
   transition: color var(--transition), border-color var(--transition);
@@ -797,7 +797,7 @@ a {
   color: #fff;
   font-size: 16px;
   font-weight: 700;
-  line-height: 1.875em;
+  line-height: 1.875;
   letter-spacing: 0.06em;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   cursor: pointer;
@@ -858,7 +858,7 @@ a {
 .modal-window-h3 {
   font-weight: 700;
   font-size: 20px;
-  line-height: 1.15em;
+  line-height: 1.15;
   text-align: center;
   letter-spacing: 0.03em;
   margin-bottom: 12px;
@@ -871,7 +871,7 @@ a {
 
 .modal-window-application-signup-form-label {
   font-size: 12px;
-  line-height: 1.17em;
+  line-height: 1.17;
   letter-spacing: 0.01em;
   color: #757575;
   margin-bottom: 4px;
@@ -882,6 +882,9 @@ a {
   min-width: 100%;
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
+  font-size: 12px;
+  line-height: 1.167;
+  letter-spacing: 0.01em;
   padding: 12px 12px 12px 42px;
   transition: border var(--transition);
 }
@@ -898,7 +901,7 @@ a {
 
 .modal-window-application-signup-form-textarea {
   font-size: 12px;
-  line-height: 1.17em;
+  line-height: 1.17;
   letter-spacing: 0.01em;
   padding: 12px 16px;
   min-width: 100%;
@@ -958,7 +961,7 @@ a {
   align-items: center;
   align-self: center;
   font-size: 14px;
-  line-height: 1.71em;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: #757575;
   margin-bottom: 30px;
@@ -987,7 +990,7 @@ a {
   text-decoration: underline;
   color: #2196f3;
   font-size: 14px;
-  line-height: 1.71em;
+  line-height: 1.71;
   letter-spacing: 0.03em;
 }
 
@@ -1005,7 +1008,7 @@ a {
   height: 50px;
   font-weight: 700;
   font-size: 16px;
-  line-height: 1.875em;
+  line-height: 1.875;
   letter-spacing: 0.06em;
   cursor: pointer;
 }
